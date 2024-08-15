@@ -1,4 +1,4 @@
-# Inspired by LLVM's pr-code-format.yml at 
+# Inspirted by LLVM's pr-code-format.yml at 
 # https://github.com/llvm/llvm-project/blob/main/.github/workflows/pr-code-format.yml
 
 name: "Check code formatting"
