@@ -1,6 +1,7 @@
 name: GLIBC fault test
 # This workflow file is the same as the `Build + Test` with some key differences
 # - Runs on any x86 and ARM64 runner
+
 # - Disables the glibc jemalloc compile option
 # - Enables the glibc allocator fault option
 # - Disables gvisor tests to reduce stress on CI machines (tmp/shm tests overwhelm them)
